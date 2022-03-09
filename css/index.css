@@ -1,0 +1,28 @@
+.myn{
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 30px;
+    /* float: right; */
+    padding-bottom: 200px;
+    margin-bottom: 15px;
+    color: aliceblue;
+}
+.main{
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 30px;
+    padding-top:40px; 
+    padding-bottom: 180px;
+    margin-bottom: 15px;
+    text-align:start;
+}
+.for{
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 30px;
+    padding-top:40px; 
+    padding-bottom: 180px;
+    margin-bottom: 15px;
+    text-align:center ;
+    color:azure;
+}
